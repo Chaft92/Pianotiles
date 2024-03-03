@@ -1,0 +1,3 @@
+C:/Users/33634/CLionProjects/pianotiles/cmake-build-debug/CMakeFiles/pianotiles.dir
+C:/Users/33634/CLionProjects/pianotiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/33634/CLionProjects/pianotiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

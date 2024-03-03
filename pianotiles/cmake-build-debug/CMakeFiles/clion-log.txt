@@ -1,0 +1,4 @@
+"D:\Program Files (x86)\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files (x86)/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\33634\CLionProjects\pianotiles -B C:\Users\33634\CLionProjects\pianotiles\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/33634/CLionProjects/pianotiles/cmake-build-debug
